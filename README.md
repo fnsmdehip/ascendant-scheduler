@@ -1,13 +1,33 @@
-# Ascendant Empires AI-Powered Social Media Scheduler
+# Ascendant Scheduler
 
-This project is a scaffold for an AI-powered social media automation and scheduling platform, inspired by Postiz but enhanced with AI-driven thumbnail generation and streamlined multi-platform posting.
+**AI-powered social media scheduler with Next.js, Prisma, and BullMQ**
 
-## Overview
-- **Name:** Ascendant Scheduler
-- **Core:** Next.js + Tailwind CSS for frontend, NextAuth for auth, Prisma + PostgreSQL for data, BullMQ for job scheduling.
-- **Features:**
-  - Multi-platform posting (X/Twitter, Facebook, Instagram, YouTube, TikTok, Pinterest)
-  - AI-powered thumbnail generation via OpenAI Images API
-  - User-friendly scheduler UI in Cursor IDE with shadcn/ui components
-  - OAuth-based social API integrations
-  - Plugin architecture for adding new platforms
+**Category:** `software` / `scheduling`
+
+## Tech Stack
+
+- nextjs
+- tailwind
+- prisma
+- postgresql
+- bullmq
+- openai
+
+## Key Features
+
+- Social media scheduling SaaS with AI-powered content suggestions
+- Built on Next.js + Prisma + PostgreSQL + BullMQ job queue
+
+## Timeline
+
+- **2025-05-02** to **2025-05-02** (low intensity)
+
+## AI Tools Used
+
+chatgpt
+
+## Tags
+
+social-media, scheduler, saas, nextjs, ai, automation
+
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
